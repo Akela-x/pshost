@@ -50,10 +50,10 @@ function jailbreakCountdown() {
     stopInterval();
 
     let countdown = 5;
-    label.textContent = `Авто-взлом через: ${countdown}`;
+    label.textContent = `Взлом через: ${countdown}`;
     timerId = setInterval(() => {
         countdown--;
-        label.textContent = `Авто-взлом через: ${countdown}`;
+        label.textContent = `Взлом через: ${countdown}`;
 
         if (countdown < 0) {
             jeilbrekBtn.disabled = true; 
