@@ -43,17 +43,17 @@ function stopInterval(){
         clearInterval(timerId);
         timerId = null;
     }
-    label.textContent = "Auto Jailbreak";
+    label.textContent = "Авто-взлом";
 }
 
 function jailbreakCountdown() {   
     stopInterval();
 
     let countdown = 5;
-    label.textContent = `Auto Jailbreaking in: ${countdown}`;
+    label.textContent = `Авто-взлом через: ${countdown}`;
     timerId = setInterval(() => {
         countdown--;
-        label.textContent = `Auto Jailbreaking in: ${countdown}`;
+        label.textContent = `Авто-взлом через: ${countdown}`;
 
         if (countdown < 0) {
             jeilbrekBtn.disabled = true; 
