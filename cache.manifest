@@ -33,17 +33,6 @@ src/ps4/patches/850.bin
 src/ps4/patches/900.bin
 src/ps4/patches/903.bin
 src/ps4/patches/950.bin
-disableupdates.bin
-backupdb.bin
-restoredb.bin
-frontend.js
-malloc.js
-payload.js
-relocator.js
-ropb2.js
-syscalls.js
-syscalls2.js
-wexploit.js
 
 NETWORK:
 *
