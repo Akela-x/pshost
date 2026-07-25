@@ -43,7 +43,7 @@ function stopInterval(){
         clearInterval(timerId);
         timerId = null;
     }
-    label.textContent = "Авто-взлом";
+    label.textContent = "Автозапуск";
 }
 
 function jailbreakCountdown() {   
