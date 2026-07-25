@@ -1,11 +1,8 @@
 CACHE MANIFEST
 
 CACHE:
-cache.html
 index.html
-jb.html
-ac.html
-includes/cat.png
+includes/cat.jpg
 includes/script.js
 includes/style.css
 src/payload.bin
