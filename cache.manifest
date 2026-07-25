@@ -8,6 +8,14 @@ ac.html
 disableupdates.bin
 backupdb.bin
 restoredb.bin
+frontend.js
+malloc.js
+payload.js
+relocator.js
+ropb2.js
+syscalls.js
+syscalls2.js
+wexploit.js
 includes/cat.png
 includes/script.js
 includes/style.css
