@@ -6,6 +6,7 @@ jb.html
 ac.html
 disableupdates.bin
 backupdb.bin
+restoredb.bin
 includes/cat.png
 includes/script.js
 includes/style.css
