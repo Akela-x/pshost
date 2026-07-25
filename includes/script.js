@@ -59,7 +59,7 @@ function jailbreakCountdown() {
             jeilbrekBtn.disabled = true; 
             clearInterval(timerId);
             timerId = null;
-            label.textContent = 'Executing';
+            label.textContent = 'Выполнение';
             doJb();
         }
     }, 1000);
