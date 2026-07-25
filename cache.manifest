@@ -4,6 +4,7 @@ CACHE:
 index.html
 jb.html
 ac.html
+cache.html
 disableupdates.bin
 backupdb.bin
 restoredb.bin
